@@ -7,7 +7,7 @@ file named :
 2. tmdb_5000_credits.csv
 should be installed
 
-run the .ipynb file and you will get 3 pkl file , we mainly require only 1 out of those 3
+important to firstly run the .ipynb file and you will get 3 pkl file , we mainly require only 1 out of those 3
 1. movies.pkl
 2. movie_dict.pkl
 3. similarity.pkl
